@@ -15,3 +15,5 @@ hello, world!
 hello world
 
 Hello@new edit.
+
+This is edit #2 in the master branch.
