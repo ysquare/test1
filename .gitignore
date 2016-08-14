@@ -1,4 +1,4 @@
 *.[oa]
 *~
 
-!test.a
+git !test.a
